@@ -1,0 +1,16 @@
+# Generated docs site (built by `make docs-build`)
+/docs/
+
+# Generated Typst intermediates and compiled books
+books/*/generated/
+books/*/*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Editor / OS
+.DS_Store
