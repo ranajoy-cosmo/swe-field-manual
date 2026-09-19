@@ -1,8 +1,4 @@
-# Draft Notes
-
-This directory is for unfinished local notes. It is not included in the MkDocs site.
-
-Move or rewrite notes into `docs/` when they are ready to publish.# SWE Field Manual
+# SWE Field Manual
 
 A collection of software engineering knowledge, processes, and best practices, gathered from
 years of production experience.

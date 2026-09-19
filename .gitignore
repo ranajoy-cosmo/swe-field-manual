@@ -1,9 +1,9 @@
-# Generated docs site (built by `make docs-build`)
-/docs/
+# Generated MkDocs site (built by `make docs-build`)
+/site/
 
-# Generated Typst intermediates and compiled books
-books/*/generated/
-books/*/*.pdf
+# Local unfinished notes
+/drafts/*
+!/drafts/README.md
 
 # Python
 __pycache__/

@@ -1,7 +1,7 @@
 site_name: SWE Field Manual
 site_description: A field manual of software engineering knowledge, processes, and best practices.
-docs_dir: drafts
-site_dir: docs
+docs_dir: docs
+site_dir: site
 
 theme:
   name: material
